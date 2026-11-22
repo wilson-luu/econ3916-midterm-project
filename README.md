@@ -25,3 +25,6 @@ While the raw pooled relationship without fixed effects is strongly negative (`�
 * `midterm-starter.ipynb` — Complete reproducible analysis notebook producing all tables, figures, diagnostics, and the `REPORT_NUMBERS` verification cell.
 * `project-report.pdf` — Final written report and appendix.
 * `README.md` — Project overview and reproduction instructions.
+
+## How to Reproduce
+Open the Colab link and select **Runtime › Restart and run all**. The notebook automatically loads `project-data.csv` directly from the public GitHub repository.
